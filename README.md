@@ -1,1 +1,1 @@
-# pong_game
+# This pong_game was developed using python language
